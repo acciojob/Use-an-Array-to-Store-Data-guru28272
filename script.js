@@ -1,4 +1,4 @@
-
+const yourArray = [];
 yourArray.push({
   id: 1,
   name: "str",
