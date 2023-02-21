@@ -1,8 +1,8 @@
 
 const yourArray = {
-	name: `string`,
+	name: "string",
 	id: 1,
 	isName: true,
-	job: `fresher`,
-	color : `white`,
+	job: "fresher",
+	color : "white",
 }
