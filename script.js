@@ -1,8 +1,8 @@
 
-const yourArray = [{
-	name: "string",
-	id: 1,
-	isName: true,
-	job: "fresher",
-	color : "white",
-}]
+yourArray.push({
+  id: 1,
+  name: "str",
+  color: "green",
+  isColor: true,
+  job: "fresher",
+});
