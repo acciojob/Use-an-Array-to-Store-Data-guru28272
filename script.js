@@ -1,3 +1,3 @@
 // let yourArray = [];
 
-yourArray = ['one', 5, true, 95, 'str'];
+yourArray = ["one", 5, true, undefined, "str"];
